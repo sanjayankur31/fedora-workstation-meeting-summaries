@@ -1,0 +1,73 @@
+Complete log: http://meetbot.fedoraproject.org/fedora-meeting/2013-10-29/fedora-workstation.2013-10-29-14.00.log.html
+---------------------------------------------------------------------------------------------------------------------
+
+Summary:
+
+The first ever Fedora Workstation Working Group IRC meeting was held recently on
+the 29th of October. The Workstation Working Group is one of the three main
+working groups tasked with the creation of the Fedora workstation product, the
+other two being the Fedora Cloud and the Fedora Server. The complete proposal,
+as explained by Matthew Miller, can be found on the Fedora project wiki here:
+https://fedoraproject.org/wiki/Fedora.next/boardproposal . In short, the default
+Fedora product, which the Fedora Desktop Spin is traditionally seen as, will be
+replaced by the three aforementioned products. The community's resources: QA,
+marketing, others, will then be allocated towards these three products. Note 
+that this does not limit Fedora to three products: it merely attempts to 
+prioritize these three as core products, or "ring 1". The community is still 
+free to produce other products in parallel, in lower priority rings such as 
+ring 2, 3, and so on. One practical aspect of these rings is that products 
+in rings 2 and onwards can therefore be governed by less stringent policies. 
+
+The Workstation Working Group is composed of 9 members that were chosen by FESCo
+from a list of nominees:
+- Owen Taylor
+- Kalev Lember: 
+- Christoph Wickert
+- Lukas Tinkl
+- Jens Petersen
+- Ryan Lerch
+- Matthias Clasen
+- Christain Schaller
+- Josh Boyer
+
+Out of the 9, one member, Josh Boyer, is the liaison to FESCo. Such a liaison is
+a requirement of all three working groups and is chosen by FESCo.
+
+[TODO: write a little about each member, and what they bring to the working group]
+
+The formal annoumcement can be found here:
+https://lists.fedoraproject.org/pipermail/devel-announce/2013-October/001258.html
+The complete list of nominees can be found here: 
+https://fedoraproject.org/wiki/Fedora.next/WG_Nominations#Fedora_Workstation_Working_Group
+
+This first meeting aimed at getting all members of the working group up to speed
+with recent happenings. FESCo has tasked each working group with two tasks:
+- Deciding on their governance model, i.e., how will members be chosen in the
+  future, what tenure they serve, how are members that leave replaced, and
+such. A first proposal of this governance charter is already under discussion on
+the mailing list:
+https://lists.fedoraproject.org/pipermail/desktop/2013-October/008245.html
+Upon completion, it will be placed on the Fedora project wiki.
+
+- Drafting a PRD (Product requirements document). As wikipedia explains, the
+  function of this document is to define product itself: it's scope, what
+problems it aims to solve, what is required to create this product. 
+http://en.wikipedia.org/wiki/Product_requirements_document
+
+Other than these two tasks, which volunteers from the working group are
+now working on, the secondary goal of the meeting was to decide on the channels
+that the group would use to communicate. The existing fedora desktop mailing
+list (desktop@lists.fedoraproject.org) will be used as the mailing list for the
+workstation group. A new IRC channel: #fedora-workstation has been created on
+Freenode to be used by people interested in conversing about the product.
+
+In the open floor, the subject of desktop environment sprung up. Members were
+interested in discussing whether they'd stick to a single desktop environment
+for the workstation product, and what this would mean for other desktop
+environments that are available in Fedora. After a short discussion, it was
+decided that this will be taken up once the PRD has been agreed on.
+
+The meeting was short and to the point. Since the working group initiative has
+only just kicked off, meetings in the future will have more matter to report on.
+Do keep an eye out on the meeting-minutes mailing list for future meetings, or
+the fedora magazine for meeting summaries. 
